@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 5px;
+}
+
+body{
+    background-color: azure;
+}
+
+h1, h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:chocolate;
+}
+
+h5{
+    font-family: cursive;
+    color:brown;
+}
+
+ul { 
+    padding: 0px;
+}
+
+li {
+    display: inline-block;
+    width: auto;
+    list-style: outside none none; 
+}
+
+.About-section{
+    background-color:turquoise;
+    color: black;
+    font-size: 55;
+}
+
+.nav-tab{
+    background-color:darkturquoise;
+    color:rebeccapurple;
+
+    width:100%;
+    float:inline-start;
+    position: relative;
+}
+.photo{
+    font-size: 45;
+}
