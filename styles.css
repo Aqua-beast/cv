@@ -32,7 +32,6 @@ a{
     margin: 10px 20px;
     text-decoration: none;
 }
-
 a:hover{
     color: #EAF6F6;
 }
@@ -106,7 +105,7 @@ hr{
     padding: 25px;
 }
 
-.chilli_img{
+.mobile_img{
     width: 25%;
     float: right;
     padding: 25px;
